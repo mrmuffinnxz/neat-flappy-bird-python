@@ -1,5 +1,5 @@
 # neat-flappy-bird-python
-NEAT Algorithm plays Flappy Bird in Python
+A.I. (NEAT Algorithm) plays Flappy Bird in Python
 
 Thanks to,
 russs123 - Flappy Bird using Pygame - https://github.com/russs123/flappy_bird
